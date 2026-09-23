@@ -1,0 +1,6 @@
+url: https://github.com/drscrewdriver/dsh-browser-cdp
+name: drscrewdriver/dsh-browser-cdp
+category: browser
+description:
+  en: 'Attach DSH to a running Chrome/Edge over CDP instead of bundling a browser: 30+ structured ego_* tools (navigate, click, fill, snapshot, screenshot, network wait, captcha notice) drive an explicitly configured remote endpoint with target sequencing and single-point activation, plus a realtime watch panel (SSE screencast, direct mouse interaction, element picking with an injected action bar) and login import.'
+  zh: '通过 CDP 附着到正在运行的 Chrome/Edge，而不是自带浏览器：30+ 个结构化 ego_* 工具（导航/点击/填表/快照/截图/网络等待/验证码提示）驱动显式配置的远端端点，支持目标序列与单点激活；附实时观察窗（SSE 截屏流、直接鼠标交互、注入式浮条的元素点选）与登录态导入。'
