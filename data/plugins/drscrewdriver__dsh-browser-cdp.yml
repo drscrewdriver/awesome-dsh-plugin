@@ -1,0 +1,6 @@
+url: https://github.com/drscrewdriver/dsh-browser-cdp
+name: drscrewdriver/dsh-browser-cdp
+category: browser
+description:
+  en: 'Browser automation over CDP: attach to a running Chrome/Edge or let the plugin manage an ego-lite Chromium, drive it with 33 structured bcdp_* tools (navigate, click, fill, snapshot, network wait, login import), and watch every page on a realtime panel — SSE screencast, direct mouse takeover, download capture — docked as a dsh-better-sidebar tab or floating as a watch ball.'
+  zh: 'CDP 浏览器代理：接管运行中的 Chrome/Edge，或托管启动 ego-lite Chromium，以 33 个结构化 bcdp_* 工具（导航、点击、填写、快照、网络等待、登录态导入）驱动浏览。实时观察窗经 SSE 推流展示 agent 正在看的每个页面，可直接鼠标接管与捕获下载；装了 dsh-better-sidebar 时入驻侧边栏标签，否则退为浮动观察球。'
